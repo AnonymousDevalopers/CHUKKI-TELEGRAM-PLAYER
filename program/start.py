@@ -85,7 +85,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🇱🇰 Source Code", url="https://github.com/OsharaShaveen/Speeder"
+                        "🇱🇰 Source Code", url="https://github.com/NetworkChukka/Speeder"
                     )
                 ],
             ]
@@ -105,9 +105,9 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("✨ Official Group", url=f"https://t.me/Dp_Bots"),
+                InlineKeyboardButton("✨ Official Group", url=f"https://t.me/ehivpnssh"),
                 InlineKeyboardButton(
-                    "📣 Official Channel", url=f"https://t.me/Dp_Bots_Channel"
+                    "📣 Official Channel", url=f"https://t.me/ehivpsssh"
                 ),
             ]
         ]
@@ -155,8 +155,8 @@ async def new_chat(c: Client, m: Message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/Dp_Bots_Channel"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/Dp_Bots")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/ehivpsssh"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/ehivpnssh")
                         ],
                         [
                             InlineKeyboardButton("👤 Assistant", url=f"https://t.me/{ass_uname}")

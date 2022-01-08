@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/SLEHIGROUP",
-    "repository": "https://github.com/OsharaShaveen/Speeder",
-    "success_url": "https://t.me/WhiteDevilOp999",
+    "website": "https://networkchukka.ml",
+    "repository": "https://github.com/NetworkChukka/Speeder",
+    "success_url": "https://t.me/networkchukka",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",

@@ -46,7 +46,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/OsharaShaveen/Speeder"
+                        "🌐 Source Code", url="https://github.com/NetworkChukka/Speeder"
                     )
                 ],
             ]

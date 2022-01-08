@@ -66,7 +66,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OsharaShaveen/Speeder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NetworkChukka/Speeder)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -91,7 +91,7 @@ python3 main.py # run the bot.
 # Credits 💖
 
 - [Levina](https://github.com/levina-lab) ``Dev``
-- [White Devil](https://t.me/Dp_Bots_Channel) 🇱🇰Admin🇱🇰
+- [Network Chukka](https://t.me/ehivpsssh) 🇱🇰Admin🇱🇰
 
 ### Support & Updates 🎑
-<a href="https://t.me/Dp_Bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Dp_Bots_Channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ehivpsssh"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ehivpnssh"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
