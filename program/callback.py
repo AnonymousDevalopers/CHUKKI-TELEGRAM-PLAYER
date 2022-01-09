@@ -60,18 +60,18 @@ async def cbguides(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""❓ **Basic Guide for using this bot:**
 
-1.) **First, add me to your group.**
-2.) **Then, promote me as administrator and give all permissions except Anonymous Admin.**
-3.) **After promoting me, type /reload in group to refresh the admin data.**
+1.) **First, add me to your group.😁**
+2.) **Then, promote me as administrator😊 and give all permissions except Anonymous Admin.**
+3.) **After promoting me, type /reload in group to refresh the admin data.🤪**
 3.) **Add @{ASSISTANT_NAME} to your group or type /userbotjoin to invite her.**
-4.) **Turn on the video chat first before start to play video/music.**
+4.) **Turn on the video chat first before start to play video/music.🚗**
 5.) **Sometimes, reloading the bot by using /reload command can help you to fix some problem.**
 
 📌 **If the userbot not joined to video chat, make sure if the video chat already turned on, or type /userbotleave then type /userbotjoin again.**
 
 💡 **If you have a follow-up questions about this bot, you can tell it on my support chat here: @{GROUP_SUPPORT}**
 
-⚡ __Powered by Network Chukka A.I__""",
+⚡ __Powered by ANONYMOUS BOTZ A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbstart")]]
         ),
@@ -85,7 +85,7 @@ async def cbcmds(_, query: CallbackQuery):
 
 » **press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by DP BOTS A.I__""",
+⚡ __Powered by ANONYMOUS BOTZ A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -121,7 +121,7 @@ async def cbbasic(_, query: CallbackQuery):
 » /uptime - show the bot uptime status
 » /alive - show the bot alive info (in group)
 
-⚡️ __Powered by DP BOTS AI__""",
+⚡️ __Powered by ANONYMOUS BOTZ AI__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
@@ -155,14 +155,14 @@ async def cbsudo(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""🏮 here is the Ehi Links:
 
-» Zoom - [Zoom](https://www.mediafire.com/download/uxp83ipuc74smpr)
-» Youtube = [YT](https://www.mediafire.com/download/19bbfs12xjo1opj)
-» Whatsapp = [Whatsapp](Link)
-» Facebook = [Facebook][Link]
+» Zoom - [Zoom](https://t.me/ehivpsssh/144)
+» Youtube = [YT](https://t.me/ehivpsssh/141)
+» Whatsapp = [Whatsapp](https://t.me/ehivpsssh/140)
+» Facebook = [Facebook][https://t.me/ehivpsssh/142]
 » Netflix = [Netflix](Link)
-» Twitter = [Twitter](Link)
+» Twitter = [Twitter](https://t.me/ehivpsssh/143)
 
-⚡ __Powered by DP BOTS AI__""",
+⚡ __Powered by ANONYMOUS BOTZ AI__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),

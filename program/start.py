@@ -60,7 +60,9 @@ async def start_(client: Client, message: Message):
 
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
 
-😇 **Respect My Master, My Master Is @WhiteDevilOp999**
+😇 **Respect My Master, My Master Is @networkchukka**
+
+😁 **join our channel  @anonymousbotz**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -73,7 +75,7 @@ async def start_(client: Client, message: Message):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("😈 Contact My Owner", url=f"https://t.me/WhiteDevilOp999"),
+                    InlineKeyboardButton("😈 Contact My Owner", url=f"https://t.me/networkchukka"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -113,7 +115,7 @@ async def alive(client: Client, message: Message):
         ]
     )
 
-    alive = f"**Hello {message.from_user.mention()}, i'm {BOT_NAME}**\n\n✨ Bot is working normally\n🍀 My Master: [White Devil](https://t.me/WhiteDevilOp999)\n✨ Bot Version: `v{__version__}`\n🍀 Pyrogram Version: `{pyrover}`\n✨ Python Version: `{__python_version__}`\n🍀 PyTgCalls version: `{pytover.__version__}`\n✨ Uptime Status: `{uptime}`\n\n**Thanks for Adding me here, for playing video & music on your Group's video chat** ❤"
+    alive = f"**Hello {message.from_user.mention()}, i'm {BOT_NAME}**\n\n✨ Bot is working normally\n🍀 My Master: [Networkchukka](https://t.me/networkchukka)\n✨ Bot Version: `v{__version__}`\n🍀 Pyrogram Version: `{pyrover}`\n✨ Python Version: `{__python_version__}`\n🍀 PyTgCalls version: `{pytover.__version__}`\n✨ Uptime Status: `{uptime}`\n\n**Thanks for Adding me here, for playing video & music on your Group's video chat** ❤"
 
     await message.reply_photo(
         photo=f"{ALIVE_IMG}",
