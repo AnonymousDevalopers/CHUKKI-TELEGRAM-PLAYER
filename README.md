@@ -21,7 +21,7 @@
 
 ## 🎭 Interface
 <p align="center">
-  <img src="https://telegra.ph/file/d2ce0d686587059942be5.jpg">
+  <img src="https://telegra.ph/file/2f5f1518cc7bcc56ae1fa.jpg">
 </p>
 
 ## ✨ Features
