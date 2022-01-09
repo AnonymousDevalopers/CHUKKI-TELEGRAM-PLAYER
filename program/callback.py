@@ -49,6 +49,11 @@ async def cbstart(_, query: CallbackQuery):
                         "🌐 Source Code", url="https://github.com/NetworkChukka/Speeder"
                     )
                 ],
+                [
+                    InlineKeyboardButton(
+                        "share me", url="https://t.me/share/url?url=https://t.me/{BOT_USERNAME}"
+                    )
+                ],
             ]
         ),
         disable_web_page_preview=True,

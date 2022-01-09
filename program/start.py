@@ -90,6 +90,11 @@ async def start_(client: Client, message: Message):
                         "🇱🇰 Source Code", url="https://github.com/NetworkChukka/Speeder"
                     )
                 ],
+                [
+                    InlineKeyboardButton(
+                        "share me", url="https://t.me/share/url?url=https://t.me/{BOT_USERNAME}"
+                    )
+                ],
             ]
         ),
         disable_web_page_preview=True,
