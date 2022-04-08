@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://networkchukka.ml",
-    "repository": "https://github.com/NetworkChukka/Speeder",
+    "repository": "https://github.com/AnonymousDevalopers/CHUKKI-TELEGRAM-PLAYER",
     "success_url": "https://t.me/networkchukka",
     "env": {
         "API_ID": {
